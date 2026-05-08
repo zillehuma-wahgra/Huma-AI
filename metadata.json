@@ -1,0 +1,6 @@
+{
+  "name": "Groq Intelligence Hub",
+  "description": "A high-performance AI portal powered by Groq and Express, providing lightning-fast LLM interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
